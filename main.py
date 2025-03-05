@@ -8,3 +8,4 @@ def choice(string action):
         pass
 
 
+greeting()
